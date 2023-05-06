@@ -1,0 +1,15 @@
+.home_div{
+    margin: auto;
+    
+}
+.new_session{
+    padding: 5%;
+    margin-top: 3%;
+    
+}
+.session_details{
+    padding: 5%;
+    margin-top:3%;
+    border-left: thick;
+    border-color: black;
+}

@@ -1,0 +1,39 @@
+
+    section {
+  padding: 20px;
+}
+
+table {
+  width:1895px;
+}
+
+td, th {
+  text-align: center;
+  padding: 12px;
+  background:#eff4fb;
+}
+
+th {
+  background: #1d5276;
+  color: white;
+}
+
+th.special {
+  background: #652c8b
+ 
+}
+
+.allo-width-50 {
+  width: 50%;
+}
+
+.allo-flex {
+  display:flex;
+  flex-wrap:wrap;
+}
+
+@media screen and (max-wdith: 768px){
+  .allo-width-50 {
+    width:100%;
+  }
+}
